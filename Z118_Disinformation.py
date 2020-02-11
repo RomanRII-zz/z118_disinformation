@@ -14,7 +14,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 #Lists
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 first_name = ["John", "Steve", "Karen", "Tylor", "Bob", "Rose", "Silva", "Darrel", "Jerome", "Tyrone", "Donald", "Steven", "Leslie", "Ann", "Nicole", "Smith", "Perry", "Barrymore", "Drew", "Carrey", "Lamar", "Billie", "Hannah", "Michelle", "Elizabeth", "Henry", "Luis", "Luiz", "Luise"]
-last_name = ["Smith", "Valero", "Martinez", "Cruz", "Shiv", "Freeman", "Gonzalez", "Gonzales", "Wheel", "Vlad", "Shelduchink", "Perry", "Hanks", "Washington", "Tarintino", "Fisher", "Thompson"]
+last_name = ["Smith", "Valero", "Martinez", "Cruz", "Shiv", "Freeman", "Chavez", "Gonzales", "Stein", "Vlad", "Shelduchink", "Perry", "Hanks", "Washington", "Tarintino", "Fisher", "Thompson"]
 street_name = ["River Side", "64th", "63rd", "62nd", "61st", "47th", "Shining Star", "Franklin", "Shoal", "River", "Lake", "Ocean", "Francisco", "Sunrise", "Dale", "8 Mile", "13th"]
 street_end = ["Way", "Ct", "Rd", "Wy", "Court", "Road", "Blvd", "Boulevard", "Pass", "Ps"]
 cities = ["Alexandria", "Auroa", "Austin", "Boston", "Chandler", "Charlotte", "Dallas", "Dayton", "Elizabeth", "Eugene", "Gilbert", "Houston", "Jackson", "Lincoln", "Madison", "Memphis", "Orlando", "Phoenix", "Savannah", "Warren", "San Francisco", " San Jose", " Los Angeles", " New York"]
